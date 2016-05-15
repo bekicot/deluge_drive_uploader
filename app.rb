@@ -1,4 +1,4 @@
-#! /home/bekicot/.rbenv/shims/ruby
+#! ~/.rbenv/shims/ruby
 require 'rubygems'
 require 'bundler'
 Bundler.require(:default)
